@@ -63,3 +63,6 @@ if (!inputCsv) {
 }
 
 compareWithDatabase(inputCsv);
+
+
+// comapare to the database 
